@@ -1,0 +1,17 @@
+#logo {
+    max-width: 128px;
+    max-height: 128px;
+}
+p {
+    text-align: left;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    text-align:center;
+}
+.icon-images {
+    max-width: 128px;
+    max-height: 128px;
+}
